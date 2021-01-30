@@ -8,5 +8,7 @@
 * Comments on Model Performance: Low performance on salary estimate regression model may be due to the salary data from glassdoor estimates. Glassdoor estimates may be based on the job location (state), rather than the listed skill set.  
 
 ![](/image/1.png)
+
 ![](/image/2.png)
+
 ![](/image/3.png)
