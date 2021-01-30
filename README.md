@@ -7,6 +7,6 @@
 * Model Performance: 93% accuracy achieved with classification model / salary estimate regression model (MAE ~ $18.06K)
 * Comments on Model Performance: Low performance on salary estimate regression model may be due to the salary data from glassdoor estimates. Glassdoor estimates may be based on the job location (state), rather than the listed skill set. 
 
-![](/image/Top 20 States with Highest Average Salary in Entry Data Analyst Positions.png)
+![](/image/Top%2020%20States%20with%20Highest%20Average%20Salary%20in%20Entry%20Data%20Analyst%20Positions.png)
 ![](/image/Top%2020%20States%20with%20Highest%20Average%20Salary%20in%20Entry%20Data%20Scientist%20Position.png)
 ![](/image/Top%2020%20States%20with%20Highest%20Average%20Salary%20in%20Entry%20Software%20Engineer%20Positions.png)
