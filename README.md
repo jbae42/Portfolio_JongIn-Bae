@@ -21,6 +21,6 @@ Other models (Gradient_Boost, ADA Boost, and Random Forest Classifier) performed
 
 ![](/image/1.png)
 
-![](/image/2.png)
+![](/image/Box%20Plots%20on%20Entry%20Level%20Salary%20by%20Job%20Type.png)
 
-![](/image/3.png)
+![](/image/wordcloud_datascientist.png)
